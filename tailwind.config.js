@@ -10,8 +10,13 @@ export default {
     extend: {
       backgroundImage: {
         'ornamentBox': "url('/src/assets/Ornament Box.svg')",
+        'ornamentBox2': "url('/src/assets/Ornamen-Box-2.svg')",
+        'ornamentLine': "url('/src/assets/Ornament-line.svg')",
         'bannerHero': "url('/src/assets/Banner-hero.svg')",
-        'mainGrad': "linear-gradient(280deg, #00796D 0%, #38C682 100%)"
+        'Sec1SuaraBerisik': "url('/src/assets/suara-berisik.jpg')",
+        'mainGrad': "linear-gradient(280deg, #00796D 0%, #38C682 100%)",
+        'secondGrad': "linear-gradient(280deg, rgba(0, 121, 109, 0.10) 0%, rgba(56, 198, 130, 0.10) 100%)",
+        'whiteGrad': "linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%)",
       },
       colors: {
         primaryColor: '#0C111F',
