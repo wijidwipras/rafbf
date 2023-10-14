@@ -30,6 +30,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 .product::-webkit-scrollbar-thumb {
-  background-color: #0C111F;
+  background-color: #0c111f3a;
   border-radius: 10px;
 }
